@@ -343,7 +343,7 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "QyueDesign": "https://shortlink.184008777.xyz",
+          "qyue": "https://shortlink.184008777.xyz",
           "v1.mk": "https://v1.mk/short",
           "d1.mk": "https://d1.mk/short",
           "dlj.tf": "https://dlj.tf/short",
