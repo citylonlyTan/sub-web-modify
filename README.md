@@ -10,7 +10,7 @@
 </div>
 
 ## 📖 项目简介
-
+Fork from [cmliu/sub-web-modify](https://github.com/cmliu/sub-web-modify) 自己打了个包用来在Nas上部署。
 Sub-Web-Modify 是基于 [CareyWang/sub-web](https://github.com/CareyWang/sub-web) 项目的增强版本，专为订阅转换服务设计的现代化前端界面。感谢原作者 [youshandefeiyang](https://github.com/youshandefeiyang) 的出色工作，本项目在其基础上进行了进一步优化。
 
 ### 🌟 主要特性
